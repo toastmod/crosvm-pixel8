@@ -1,4 +1,5 @@
 # crosvm-pixel8
+Please note this is a work in progress.
 A crosvm build environment targeting the Pixel 8, using the AOSP build tools and Rust.
 
 # Dependencies
