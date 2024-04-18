@@ -1,5 +1,5 @@
 # crosvm-pixel8
-A crosvm build environment targeting the Pixel 8, using purely the 
+A crosvm build environment targeting the Pixel 8, using the AOSP build tools and Rust.
 
 # Dependencies
 As per the [AOSP Documentation](https://source.android.com/docs/setup/start/requirements), you'll need to install these packages.
